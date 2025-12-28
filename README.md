@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow.
 - 👨‍🎓 I'm graduate of VIT CSE class of 2025.
 - Social Presence
-<br/> [<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/90/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/>](https://twitter.com/Liku_lsk) <br /> [<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/90/FFFFFF/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/likuleash-s-a89531221/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/liku._.lsk/)
+<br/> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Liku_lsk) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/likuleash-s-a89531221/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/liku._.lsk/)
 
 
 ### I code in
@@ -38,3 +38,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likucodes1912&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=likucodes1912&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likucodes1912&theme=github_dark" height="180em" />
+
