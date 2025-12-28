@@ -20,7 +20,9 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/HP-ED1C24?style=for-the-badge&logo=hp&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-[![Likuleash's GitHub stats](https://github-readme-stats.vercel.app/api?username=likucodes1912)](https://github.com/anuraghazra/github-readme-stats)
+[![Likuleash's GitHub stats](https://github-readme-stats.vercel.app/api?username=likucodes1912&theme=dark&show_icons=issues,contribs)]
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=likucodes1912&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/likucodes07?theme=dark&font=Carrois%20Gothic)
 
