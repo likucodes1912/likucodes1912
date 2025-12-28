@@ -20,13 +20,12 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/HP-ED1C24?style=for-the-badge&logo=hp&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
+<div align="center">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/likucodes07?theme=dark&font=Carrois%20Gothic)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/likucodes1912?cardType=level&theme=dark&fontFamily=Cascadia%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=likucodes1912&bg_color=0d1117&color=ffffff&line=00ffe1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
 <a href="https://github.com/likucodes1912">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=likucodes1912&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likucodes1912&theme=github_dark" height="180em" />
