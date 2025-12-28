@@ -22,6 +22,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/likucodes07?theme=dark&font=Carrois%20Gothic)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/likucodes1912?cardType=level&theme=dark&fontFamily=Carrois%20Gothic&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/likucodes1912?cardType=level&theme=dark&fontFamily=Cascadia%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=likucodes1912&bg_color=0d1117&color=ffffff&line=00ffe1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
