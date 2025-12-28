@@ -22,10 +22,10 @@
 
 <table align="center" cellspacing="20" cellpadding="0">
   <tr>
-    <td align="center">
+    <td>
       <img src="https://leetcard.jacoblin.cool/likucodes07?theme=dark&font=Carrois%20Gothic" />
     </td>
-    <td align="center">
+    <td>
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/likucodes1912?cardType=level&theme=dark&fontFamily=Cascadia%20Mono&preferLogin=false" />
     </td>
   </tr>
