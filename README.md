@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow.
 - 👨‍🎓 I'm graduate of VIT CSE class of 2025.
 - Social Presence
-<br/> [<img width="50" height="50" src="https://img.icons8.com/ios/50/twitterx--v1.png" alt="twitterx--v1"/>](https://twitter.com/Liku_lsk) <br /> [<img width="50" height="50" src="https://img.icons8.com/ios/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/likuleash-s-a89531221/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/liku._.lsk/)
+<br/> [<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/90/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/>](https://twitter.com/Liku_lsk) <br /> [<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/90/FFFFFF/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/likuleash-s-a89531221/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/liku._.lsk/)
 
 
 ### I code in
