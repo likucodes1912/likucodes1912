@@ -39,9 +39,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=likucodes1912&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likucodes1912&theme=github_dark" height="180em" />
 </a>
-  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=likucodes1912&bg_color=000000&color=ffffff&line=ae00ff&point=ffffff&area=true&hide_border=true" />
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=likucodes1912&bg_color=000000&color=ffffff&line=8000ff&point=ffffff&area=true&hide_border=true)]
+
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likucodes1912&theme=github_dark" height="180em" /> -->
 
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=likucodes1912&theme=github_dark" height="180em" />-->
